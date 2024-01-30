@@ -1,7 +1,7 @@
 # GP
 
 
-| Model    | accuracy | precion  |  recall   | F1-score |
+| Model    | accuracy | precision|  recall   | F1-score |
 | -------- | -------- | -------- | --------  | -------- |
 | LSTM     |          |          |           |          |
 | CNN-RNN  |          |          |           |          | 
