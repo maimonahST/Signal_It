@@ -32,4 +32,3 @@ The final version of this project is tagged as  **v1.0.0**.
 | Haya Alzahim       | [@HayaAlzahim](https://github.com/HayaAlzahim) |
 | Shahad Alotaibi    | [@Shahadfaiz](https://github.com/Shahadfaiz) |
 
-Feel free to contribute to the project by submitting issues or pull requests. Your feedback is valuable to us!
