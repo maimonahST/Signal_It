@@ -9,11 +9,11 @@ This project utilizes the [Stroke EIT Dataset](https://www.nature.com/articles/s
 To get started with this project, follow these steps:
 1. Clone this repository to your local machine:
     ```bash
-    git clone https://github.com/your-username/Signal-IT.git
+    git clone https://github.com/your-username/Signal-It.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd Signal-IT
+    cd Signal-It
     ```
 3. Open each Jupyter Notebook using Jupyter Notebook or Google Colab.
 4. Follow the instructions within each notebook for implementation details.
