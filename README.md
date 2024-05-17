@@ -15,11 +15,13 @@ To get started with this project, follow these steps:
     ```bash
     cd Signal-IT
     ```
-3. Open each lab's Jupyter Notebook using Jupyter Notebook or Google Colab.
-4. Follow the instructions within each lab notebook for implementation details.
+3. Open each Jupyter Notebook using Jupyter Notebook or Google Colab.
+4. Follow the instructions within each notebook for implementation details.
 
 ## Version
-The current draft version of this project is tagged as **v0.1.0**.
+The current draft version of this project is tagged as **v0**.
+The final version of this project is tagged as  **Final Version**.
+
 
 ## Collaborators
 | Student Name       | GitHub Account    |
