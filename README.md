@@ -1,7 +1,6 @@
 # Signal IT: Stroke Detection Based on EEG Signals
 
-This project aims to develop machine learning and deep learning models for stroke detection using EEG signals by analyzing EEG data. "Final Version" folder contains the latest versions of the notebooks.
-
+This project aims to develop machine learning and deep learning models for stroke detection using EEG signals by analyzing EEG data.
 ## Dataset
 This project utilizes the [Stroke EIT Dataset](https://www.nature.com/articles/sdata2018112).
 
@@ -20,7 +19,8 @@ To get started with this project, follow these steps:
 
 ## Version
 The current draft version of this project is tagged as **v0**.
-The final version of this project is tagged as  **Final Version**.
+
+The final version of this project is tagged as  **v1.0.0**.
 
 
 ## Collaborators
